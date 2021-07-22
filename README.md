@@ -4,7 +4,7 @@
 **wszqkzqk/wszqkzqk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 - 🧪 北京大学化学与分子工程学院在读本科生
-- 💗 [马列主义者](https://www.marxists.org/chinese/)
+- 💗 [马克思列宁主义者](https://www.marxists.org/chinese/)
 - ✨ [维基人](https://www.wikipedia.org/)
 - 😉 Manjaro/Ubuntu系统使用者
 - 😘 在开源社区得到了很多支持与帮助
