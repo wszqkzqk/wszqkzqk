@@ -1,11 +1,10 @@
-### Hi there 👋
+### 你好，我是星外之神！ 👋
 
 <!--
 **wszqkzqk/wszqkzqk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 -->
-- 你好，我是星外之神！
 - 🌱 北京大学化学与分子工程学院在读本科生
 - 😉 Manjaro/Ubuntu系统使用者
 - 😘 在开源社区得到了很多支持与帮助
