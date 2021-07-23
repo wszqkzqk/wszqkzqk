@@ -13,6 +13,6 @@
 - 💬 联系方式：wszqkzqk@qq.com
 - ⚡ 欢迎来我的[小破站](https://wszqkzqk.github.io/)玩吖！
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=wszqkzqk&bg_color=0D1117&text_color=FFFFFF&count_private=true&show_icons=true&hide_border=true&include_all_commits=true)](https://github.com/wszqkzqk)
+[![在GitHub上得到的小星星✨](https://github-readme-stats.vercel.app/api?username=wszqkzqk&bg_color=0D1117&text_color=FFFFFF&count_private=true&show_icons=true&hide_border=true&include_all_commits=true)](https://github.com/wszqkzqk)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wszqkzqk&layout=compact&bg_color=0D1117&text_color=FFFFFF&langs_count=10&hide_border=true)](https://github.com/wszqkzqk)
+[![最常使用的语言](https://github-readme-stats.vercel.app/api/top-langs/?username=wszqkzqk&layout=compact&bg_color=0D1117&text_color=FFFFFF&langs_count=10&hide_border=true)](https://github.com/wszqkzqk)
