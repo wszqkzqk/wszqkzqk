@@ -8,7 +8,7 @@
 - ✨ [维基人](https://www.wikipedia.org/)
 - 😉 Manjaro/Ubuntu系统使用者
 - 😘 在开源社区得到了很多支持与帮助
-- 🤣 最近因为Realtek RTL8852AE网卡驱动在主线内核中还没有，回到了~~Bugdows~~Windows 10
+- 🤣 ~~最近因为Realtek RTL8852AE网卡驱动在主线内核中还没有，回到了Windows 10~~驱动问题已解决，现在回归Linux
 - 😣 个人能力tcl...啥也不会...
 - 💬 联系方式：wszqkzqk@qq.com
 - ⚡ 欢迎来我的[小破站](https://wszqkzqk.github.io/)玩吖！
