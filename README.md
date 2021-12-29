@@ -16,5 +16,3 @@
 [![我在GitHub上的小星星✨](https://github-readme-stats.vercel.app/api?username=wszqkzqk&bg_color=0D1117&text_color=FFFFFF&count_private=true&show_icons=true&hide_border=true&include_all_commits=true)](https://github.com/wszqkzqk)
 
 
-C<sub>18</sub>
-C<sub>1</sub><sub>8</sub>
