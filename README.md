@@ -11,6 +11,7 @@
 - 🤣 ~~最近因为Realtek RTL8852AE网卡驱动在主线内核中还没有，回到了Windows 10~~ 驱动问题已通过自行下载代码进行编译解决，现在回归Linux
   - 感觉Linux下编译的这个驱动比Windows下的自带驱动稳定得多，至少不会断流啊什么的
     - 现在Windows断流情况也好多了
+  - 自Linux 5.16内核已经集成了Realtek RTL8852AE网卡驱动
 - 😣 个人能力tcl...什么也不会...
 - 💬 联系方式：wszqkzqk@qq.com
 - ⚡ 欢迎来我的[博客网站](https://wszqkzqk.github.io/)玩吖！
