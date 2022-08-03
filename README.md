@@ -9,6 +9,7 @@
 - 😉 Manjaro及Arch Linux使用者
   - 都在用，但是Manjaro用得多一些
   - 当然，化学专业决定了我无法脱离Windows😭😭😭
+- 🐍 较多使用Python
 - 😘 在开源社区得到了很多支持与帮助
 - 🤣 ~~最近因为Realtek RTL8852AE网卡驱动在主线内核中还没有，回到了Windows 10~~ 驱动问题已通过自行下载代码进行编译解决，现在回归Linux
   - 感觉Linux下编译的这个驱动比Windows下的自带驱动稳定得多，至少不会断流啊什么的
