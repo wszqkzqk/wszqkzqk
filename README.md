@@ -3,6 +3,14 @@
 <!--
 **wszqkzqk/wszqkzqk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+[![OS:Manjaro Linux](https://img.shields.io/badge/OS-ManjaroLinux-blue?style=flat-square&logo=manjaro-linux)](https://manjaro.org)
+[![OS:Arch Linux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
+[![OS:Windows 11](https://img.shields.io/badge/OS-Windows11-blue?style=flat-square&logo=Windows11)](https://windows.com)
+[![DE:KDE](https://img.shields.io/badge/DE-KDE-blue?style=flat-square&logo=KDE)](https://www.kde.org)
+
+[![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
+
 - 🧪 北京大学化学与分子工程学院在读本科生
 - 💗 [马克思列宁主义者](https://www.marxists.org/chinese/)
 - ✨ [维基人](https://www.wikipedia.org/)
