@@ -14,7 +14,7 @@
 
 [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
 
-[![email](https://img.shields.io/badge/Email-wszqkzqk@qq.com-red?style=flat-square&logo=gmail)](mailto:wszqkzqk@qq.com)
+[![email](https://img.shields.io/badge/Email-wszqkzqk@qq.com-blue?style=flat-square&logo=gmail)](mailto:wszqkzqk@qq.com)
 
 </div>
 
