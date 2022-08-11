@@ -1,10 +1,6 @@
-### 你好，我是星外之神！👋
-
-<!--
-**wszqkzqk/wszqkzqk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 <div align="center">
+
+## 你好，我是星外之神！👋
 
 [![OS:Manjaro](https://img.shields.io/badge/OS-Manjaro-blue?style=flat-square&logo=manjaro)](https://manjaro.org)
 [![OS:Arch Linux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
