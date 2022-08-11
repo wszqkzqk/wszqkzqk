@@ -4,6 +4,8 @@
 **wszqkzqk/wszqkzqk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+<div align="center">
+
 [![OS:Manjaro](https://img.shields.io/badge/OS-Manjaro-blue?style=flat-square&logo=manjaro)](https://manjaro.org)
 [![OS:Arch Linux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
 [![OS:Windows](https://img.shields.io/badge/OS-Windows-blue?style=flat-square&logo=Windows)](https://windows.com)
@@ -14,6 +16,8 @@
 [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
 
 [![email](https://img.shields.io/badge/Email-wszqkzqk@qq.com-red?style=flat-square&logo=gmail)](mailto:wszqkzqk@qq.com)
+
+</div>
 
 - 🧪 北京大学化学与分子工程学院在读本科生
 - 💗 [马克思列宁主义者](https://www.marxists.org/chinese/)
