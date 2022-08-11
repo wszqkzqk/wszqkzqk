@@ -9,7 +9,6 @@
 [![OS:Manjaro](https://img.shields.io/badge/OS-Manjaro-blue?style=flat-square&logo=manjaro)](https://manjaro.org)
 [![OS:Arch Linux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
 [![OS:Windows](https://img.shields.io/badge/OS-Windows-blue?style=flat-square&logo=Windows)](https://windows.com)
-
 [![DE:KDE](https://img.shields.io/badge/DE-KDE-blue?style=flat-square&logo=KDE)](https://www.kde.org)
 [![DE:Cinnamon](https://img.shields.io/badge/DE-Cinnamon-blue?style=flat-square&logo=Cinnamon)](https://github.com/linuxmint/cinnamon)
 
@@ -37,6 +36,10 @@
 - 💬 联系方式：wszqkzqk@qq.com
 - ⚡ 欢迎来我的[博客网站](https://wszqkzqk.github.io/)玩吖！
 
+<div align="center">
+
 [![我在GitHub上的小星星✨](https://github-readme-stats.vercel.app/api?username=wszqkzqk&bg_color=0D1117&text_color=FFFFFF&count_private=true&show_icons=true&hide_border=true&include_all_commits=true)](https://github.com/wszqkzqk)
 
 [![我的Github提交情况](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wszqkzqk&theme=github)](https://github.com/wszqkzqk)
+
+</div>
