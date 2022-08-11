@@ -9,8 +9,11 @@
 [![OS:Windows](https://img.shields.io/badge/OS-Windows-blue?style=flat-square&logo=Windows)](https://windows.com)
 
 [![DE:KDE](https://img.shields.io/badge/DE-KDE-blue?style=flat-square&logo=KDE)](https://www.kde.org)
+[![DE:Cinnamon](https://img.shields.io/badge/DE-Cinnamon-blue?style=flat-square&logo=Cinnamon)](https://github.com/linuxmint/cinnamon)
 
 [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
+
+[![email](https://img.shields.io/badge/Email-wszqkzqk@qq.com-red?style=flat-square&logo=gmail)](mailto:wszqkzqk@qq.com)
 
 - 🧪 北京大学化学与分子工程学院在读本科生
 - 💗 [马克思列宁主义者](https://www.marxists.org/chinese/)
