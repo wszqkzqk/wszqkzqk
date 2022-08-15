@@ -3,7 +3,7 @@
 ## 你好，我是星外之神！👋
 
 [![OS:Manjaro](https://img.shields.io/badge/OS-Manjaro-blue?style=flat-square&logo=manjaro)](https://manjaro.org)
-[![OS:Arch Linux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
+[![OS:Arch Linux](https://img.shields.io/badge/OS-Arch%20Linux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
 [![OS:Windows](https://img.shields.io/badge/OS-Windows-blue?style=flat-square&logo=Windows)](https://windows.com)
 [![DE:KDE](https://img.shields.io/badge/DE-KDE-blue?style=flat-square&logo=KDE)](https://www.kde.org)
 [![DE:Cinnamon](https://img.shields.io/badge/DE-Cinnamon-blue?style=flat-square&logo=Cinnamon)](https://github.com/linuxmint/cinnamon)
