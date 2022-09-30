@@ -7,6 +7,7 @@
 [![OS:Windows](https://img.shields.io/badge/OS-Windows-blue?style=flat-square&logo=Windows)](https://windows.com)
 [![DE:KDE](https://img.shields.io/badge/DE-KDE-blue?style=flat-square&logo=KDE)](https://www.kde.org)
 [![DE:Cinnamon](https://img.shields.io/badge/DE-Cinnamon-blue?style=flat-square&logo=Cinnamon)](https://github.com/linuxmint/cinnamon)
+[![DE:Xfce](https://img.shields.io/badge/DE-Xfce-blue?style=flat-square&logo=Xfce)](https://xfce.org)
 
 [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
 
