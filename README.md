@@ -37,6 +37,6 @@
 
 [![我在GitHub上的小星星✨](https://github-readme-stats.vercel.app/api?username=wszqkzqk&bg_color=0D1117&text_color=FFFFFF&count_private=true&show_icons=true&hide_border=true&include_all_commits=true)](https://github.com/wszqkzqk)
 
-[![我的Github提交情况](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wszqkzqk&theme=github)](https://github.com/wszqkzqk)
+[![我的Github提交情况](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wszqkzqk&theme=github_dark)](https://github.com/wszqkzqk)
 
 </div>
