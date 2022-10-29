@@ -39,4 +39,6 @@
 
 [![我的Github提交情况](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wszqkzqk&theme=github_dark)](https://github.com/wszqkzqk)
 
+[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wszqkzqk&theme=github_dark)](https://github.com/wszqkzqk)
+
 </div>
