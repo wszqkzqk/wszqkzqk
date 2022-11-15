@@ -22,7 +22,7 @@
   - 当然，化学专业决定了我无法脱离Windows😭😭😭
 - 🐍 较多使用Python
   - Linux下简单的脚本还是用Bash写的
-  - 最近也在学GTK/Vala
+- ✌️最近也在学GTK/Vala
   - 在KDE和Windows下写GTK程序🤣
 - 😘 在开源社区得到了很多支持与帮助
 - 🤣 ~~最近因为Realtek RTL8852AE网卡驱动在主线内核中还没有，回到了Windows 10~~ 驱动问题已通过自行下载代码进行编译解决，现在回归Linux
