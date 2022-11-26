@@ -8,10 +8,10 @@
 [![DE:KDE](https://img.shields.io/badge/DE-KDE-blue?style=flat-square&logo=KDE)](https://www.kde.org)
 [![DE:Xfce](https://img.shields.io/badge/DE-Xfce-blue?style=flat-square&logo=Xfce)](https://xfce.org)
 
-[![LANG:Python](https://img.shields.io/badge/LANG-Python-blue?style=flat-square)](https://www.python.org/)
-[![LANG:Vala](https://img.shields.io/badge/LANG-Vala-blue?style=flat-square)](https://vala.dev/)
-[![TOOLKIT:GTK](https://img.shields.io/badge/TOOLKIT-GTK-blue?style=flat-square)](https://www.gtk.org/)
-[![TOOLKIT:Pygame](https://img.shields.io/badge/TOOLKIT-Pygame-blue?style=flat-square)](https://www.pygame.org/)
+[![LANG:Python](https://img.shields.io/badge/LANG-Python-blue?style=flat-square&logo=python)](https://www.python.org/)
+[![LANG:Vala](https://img.shields.io/badge/LANG-Vala-blue?style=flat-square&logo=vala)](https://vala.dev/)
+[![TOOLKIT:Pygame](https://img.shields.io/badge/TOOLKIT-Pygame-blue?style=flat-square&logo=pygame)](https://www.pygame.org/)
+[![TOOLKIT:GTK](https://img.shields.io/badge/TOOLKIT-GTK-blue?style=flat-square&logo=gtk)](https://www.gtk.org/)
 
 [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
 
