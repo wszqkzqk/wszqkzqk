@@ -8,22 +8,26 @@
 [![DE:KDE](https://img.shields.io/badge/DE-KDE-blue?style=flat-square&logo=KDE)](https://www.kde.org)
 [![DE:Xfce](https://img.shields.io/badge/DE-Xfce-blue?style=flat-square&logo=Xfce)](https://xfce.org)
 
+[![LANG:Python](https://img.shields.io/badge/LANG-Python-blue?style=flat-square)](https://www.python.org/)
+[![LANG:Vala](https://img.shields.io/badge/LANG-Vala-blue?style=flat-square)](https://vala.dev/)
+[![TOOLKIT:GTK](https://img.shields.io/badge/TOOLKIT-GTK-blue?style=flat-square)](https://www.gtk.org/)
+[![TOOLKIT:Pygame](https://img.shields.io/badge/TOOLKIT-Pygame-blue?style=flat-square)](https://www.pygame.org/)
+
 [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
 
 [![email](https://img.shields.io/badge/Email-wszqkzqk@qq.com-blue?style=flat-square&logo=gmail)](mailto:wszqkzqk@qq.com)
 
 </div>
 
-- 🧪 北京大学化学与分子工程学院在读本科生
-- 💗 [马克思列宁主义者](https://www.marxists.org/chinese/)
 - ✨ [维基人](https://www.wikipedia.org/)
 - 😉 Manjaro及Arch Linux使用者
   - 都在用，但是Manjaro用得多一些
   - 当然，化学专业决定了我无法脱离Windows😭😭😭
 - 🐍 较多使用Python
   - Linux下简单的脚本还是用Bash写的
-- 👣 最近也在学GTK/Vala
+- 👣 最近在学GTK/Vala
   - 在KDE和Windows下写GTK程序🤣
+  - 感觉GTK4文档好少啊😭😭😭
 - 😘 在开源社区得到了很多支持与帮助
 - 😣 个人能力tcl...什么也不会...
 - 💬 联系方式：wszqkzqk@qq.com
