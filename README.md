@@ -2,7 +2,6 @@
 
 ## 你好，我是星外之神！👋
 
-[![OS:Manjaro](https://img.shields.io/badge/OS-Manjaro-blue?style=flat-square&logo=manjaro)](https://manjaro.org)
 [![OS:Arch Linux](https://img.shields.io/badge/OS-Arch%20Linux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
 [![OS:Windows](https://img.shields.io/badge/OS-Windows-blue?style=flat-square&logo=Windows)](https://windows.com)
 [![DE:KDE](https://img.shields.io/badge/DE-KDE-blue?style=flat-square&logo=KDE)](https://www.kde.org)
@@ -22,8 +21,7 @@
 - 🧪 北京大学化学与分子工程学院在读本科生
   - [北京大学Linux俱乐部](https://github.com/lcpu-club)成员
 - ✨ [维基人](https://www.wikipedia.org/)
-- 😉 Manjaro及Arch Linux使用者
-  - 都在用，但是Manjaro用得多一些
+- 😉 Arch Linux使用者
   - 当然，化学专业决定了我无法脱离Windows😭😭😭
 - 🐍 较多使用Python
   - Linux下简单的脚本还是用Bash写的
