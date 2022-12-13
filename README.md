@@ -24,7 +24,7 @@
 - 😉 目前是Arch Linux用户
   - 我的Linux发行版使用经历
     - 2016 - 2018 Deepin
-    - 2017 - 2018 Linux Mint
+    - 2016 - 2018 Linux Mint
     - 2017 - 2018 Ununtu
     - 2017 - 2022 Manjaro
     - 2022 - 至今 Arch Linux
