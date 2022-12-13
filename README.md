@@ -26,7 +26,7 @@
     - 2016 - 2018 Deepin
     - 2017 - 2018 Linux Mint
     - 2017 - 2022 Manjaro
-    - 2022 -      Arch Linux
+    - 2022 - 至今 Arch Linux
   - 当然，化学专业决定了我无法脱离Windows😭😭😭
 - 🐍 较多使用Python
   - Linux下简单的脚本还是用Bash写的
