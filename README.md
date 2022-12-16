@@ -8,8 +8,8 @@
 [![DE:Xfce](https://img.shields.io/badge/DE-Xfce-blue?style=flat-square&logo=Xfce)](https://xfce.org)
 
 [![Lang:Python](https://img.shields.io/badge/Lang-Python-blue?style=flat-square&logo=python)](https://www.python.org/)
-[![Lang:Vala](https://img.shields.io/badge/Lang-Vala-blue?style=flat-square&logo=vala)](https://vala.dev/)
 [![Toolkit:Pygame](https://img.shields.io/badge/Toolkit-Pygame-blue?style=flat-square&logo=pygame)](https://www.pygame.org/)
+[![Lang:Vala](https://img.shields.io/badge/Lang-Vala-blue?style=flat-square&logo=vala)](https://vala.dev/)
 [![Toolkit:GTK](https://img.shields.io/badge/Toolkit-GTK-blue?style=flat-square&logo=gtk)](https://www.gtk.org/)
 
 [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
