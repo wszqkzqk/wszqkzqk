@@ -24,7 +24,7 @@
 - ✨ [维基人](https://www.wikipedia.org/)
 - 😉 目前是Arch Linux用户
   - 我的Linux发行版使用经历
-    - 2016 - 2018 Deepin
+    - 2016 - 2018 deepin
     - 2016 - 2018 Linux Mint
     - 2017 - 2018 Ubuntu（包括部分桌面环境变体，如Kubuntu、Ubuntu Budgie等）
     - 2017 - 2022 Manjaro
