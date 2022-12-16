@@ -29,7 +29,7 @@
     - 2017 - 2018 Ubuntu（包括部分桌面环境变体，如Kubuntu、Ubuntu Budgie等）
     - 2017 - 2022 Manjaro
     - 2022 - 至今 Arch Linux
-  - 当然，化学专业决定了我现在无法脱离Windows😭😭😭
+    - 当然，化学专业决定了我现在无法脱离Windows😭😭😭
   - 我的桌面环境使用经历
     - 2016 - 2018 DDE
     - 2016 - 2018 MATE
