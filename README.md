@@ -13,7 +13,7 @@
 [![Toolkit:GTK](https://img.shields.io/badge/Toolkit-GTK-blue?style=flat-square&logo=gtk)](https://www.gtk.org/)
 
 [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
-[![IDE:Kate](https://img.shields.io/badge/IDE-Kate-blue?style=flat-square&logo=kate)](https://code.visualstudio.com/)
+[![IDE:Kate](https://img.shields.io/badge/IDE-Kate-blue?style=flat-square&logo=kate)](https://kate-editor.org)
 
 [![email](https://img.shields.io/badge/Email-wszqkzqk@qq.com-blue?style=flat-square&logo=gmail)](mailto:wszqkzqk@qq.com)
 
