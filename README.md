@@ -28,6 +28,13 @@
     - 2017 - 2018 Ubuntu（包括部分桌面环境变体，如Kubuntu、Ubuntu Budgie等）
     - 2017 - 2022 Manjaro
     - 2022 - 至今 Arch Linux
+  - 我的桌面环境使用经历
+    - 2016 - 2018 DDE
+    - 2016 - 2018 MATE
+    - 2018        Budgie
+    - 2018        Cinnamon
+    - 2022 - 至今 Xfce (备用盘和虚拟机)
+    - 2017 - 至今 KDE （主要使用）
   - 当然，化学专业决定了我无法脱离Windows😭😭😭
 - 🐍 较多使用Python
   - Linux下简单的脚本还是用Bash写的
