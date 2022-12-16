@@ -29,6 +29,7 @@
     - 2017 - 2018 Ubuntu（包括部分桌面环境变体，如Kubuntu、Ubuntu Budgie等）
     - 2017 - 2022 Manjaro
     - 2022 - 至今 Arch Linux
+  - 当然，化学专业决定了我现在无法脱离Windows😭😭😭
   - 我的桌面环境使用经历
     - 2016 - 2018 DDE
     - 2016 - 2018 MATE
@@ -36,7 +37,11 @@
     - 2018 - 2018 Cinnamon
     - 2017 - 至今 KDE（主要使用）
     - 2022 - 至今 Xfce（备用盘和虚拟机）
-  - 当然，化学专业决定了我无法脱离Windows😭😭😭
+  - 我的开发环境使用经历
+    - 2016 - 2019 基本不会写代码 QwQ，少量编辑操作一般用Xed或者Gedit
+    - 2020 - 2020 Kate
+    - 2021 - 至今 VSCode
+    - 2022 - 至今 Kate
 - 🐍 较多使用Python
   - Linux下简单的脚本还是用Bash写的
 - 👣 最近在学GTK/Vala
