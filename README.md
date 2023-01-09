@@ -40,7 +40,7 @@
   - 我的开发环境使用经历
     - 2020 - 2020 Kate
     - 2021 - 至今 VSCode（主要使用）
-    - 2022 - 至今 Kate （Linux下轻量编辑）
+    - 2022 - 至今 Kate（Linux下轻量编辑）
 - 🐍 较多使用Python
   - Linux下简单的脚本还是用Bash写的
 - 👣 最近在学GTK/Vala
