@@ -20,7 +20,8 @@
 </div>
 
 - 🧪 北京大学化学与分子工程学院在读本科生
-  - [北京大学Linux俱乐部](https://github.com/lcpu-club)成员
+  - 目前担任北京大学开源软件协会理事长
+  - 同时也是[北京大学Linux俱乐部](https://github.com/lcpu-club)成员
 - ✨ [维基人](https://www.wikipedia.org/)
 - 😉 目前是Arch Linux用户
   - 我的Linux发行版使用经历
