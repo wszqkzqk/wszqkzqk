@@ -35,7 +35,7 @@
     - 2016 - 2018 MATE
     - 2018 - 2018 Budgie
     - 2018 - 2018 Cinnamon
-    - 2017 - 至今 KDE（主要使用）
+    - 2017 - 至今 KDE
     - 目前可能使用的短期测试环境：GNOME、DDE、Cinnamon、Xfce
   - 我的开发环境使用经历
     - 2020 - 2020 Kate
