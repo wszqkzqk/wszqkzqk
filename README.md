@@ -7,7 +7,6 @@
 [![DE:KDE](https://img.shields.io/badge/DE-KDE-blue?style=flat-square&logo=KDE)](https://www.kde.org)
 
 [![Lang:Python](https://img.shields.io/badge/Lang-Python-blue?style=flat-square&logo=python)](https://www.python.org/)
-[![Toolkit:Pygame](https://img.shields.io/badge/Toolkit-Pygame-blue?style=flat-square&logo=pygame)](https://www.pygame.org/)
 [![Lang:Vala](https://img.shields.io/badge/Lang-Vala-blue?style=flat-square&logo=vala)](https://vala.dev/)
 [![Toolkit:GTK](https://img.shields.io/badge/Toolkit-GTK-blue?style=flat-square&logo=gtk)](https://www.gtk.org/)
 
