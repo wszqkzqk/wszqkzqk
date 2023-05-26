@@ -19,17 +19,17 @@
 
 - 🧪 北京大学化学与分子工程学院在读本科生
   - 目前担任北京大学开源软件协会理事长
-  - 同时也是[北京大学Linux俱乐部](https://github.com/lcpu-club) AP
+  - 同时也是[北京大学 Linux 俱乐部](https://github.com/lcpu-club) AP
     - 主要负责新架构生态建设项目
 - ✨ [维基人](https://www.wikipedia.org/)
-- 😉 目前是Arch Linux用户
-  - 我的Linux发行版使用经历
+- 😉 目前是 Arch Linux 用户
+  - 我的 Linux 发行版使用经历
     - 2016 - 2018 deepin
     - 2016 - 2018 Linux Mint
-    - 2017 - 2018 Ubuntu（包括部分桌面环境变体，如Kubuntu、Ubuntu Budgie等）
+    - 2017 - 2018 Ubuntu（包括部分桌面环境变体，如 Kubuntu、Ubuntu Budgie 等）
     - 2017 - 2022 Manjaro
     - 2022 - 至今 Arch Linux
-    - 当然，化学专业决定了我现在无法脱离Windows😭😭😭
+    - 当然，化学专业决定了我现在无法脱离 Windows 😭😭😭
   - 我的桌面环境使用经历
     - 2016 - 2018 DDE
     - 2016 - 2018 MATE
@@ -40,22 +40,22 @@
   - 我的开发环境使用经历
     - 2020 - 2020 Kate
     - 2021 - 至今 VSCode（主要使用）
-    - 2022 - 至今 Kate（Linux下轻量编辑）
-- 🐍 较多使用Python
-  - Linux下简单的脚本还是用Bash写的
-- 👣 最近在学GTK/Vala
-  - 在KDE和Windows下写GTK程序🤣
-  - 感觉GTK4文档好少啊😭😭😭
+    - 2022 - 至今 Kate（Linux 下轻量编辑）
+- 🐍 较多使用 Python
+  - Linux 下简单的脚本还是用 Bash 写的
+- 👣 最近在学 GTK/Vala
+  - 在 KDE 和 Windows 下写 GTK 程序🤣
+  - 感觉 GTK4 文档好少啊😭😭😭
 - 😘 在开源社区得到了很多支持与帮助
-- 😣 个人能力tcl...什么也不会...
+- 😣 个人能力 tcl... 什么也不会...
 - 💬 联系方式：wszqkzqk@qq.com
 - ⚡ 欢迎来我的[博客网站](https://wszqkzqk.github.io/)玩吖！
 
 <div align="center">
 
-[![我在GitHub上的小星星✨](https://github-readme-stats.vercel.app/api?username=wszqkzqk&bg_color=0D1117&text_color=FFFFFF&count_private=true&show_icons=true&hide_border=true&include_all_commits=true)](https://github.com/wszqkzqk)
+[![我的 GitHub 概要](https://github-readme-stats.vercel.app/api?username=wszqkzqk&bg_color=0D1117&text_color=FFFFFF&count_private=true&show_icons=true&hide_border=true&include_all_commits=true)](https://github.com/wszqkzqk)
 
-[![我的Github提交情况](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wszqkzqk&theme=github_dark)](https://github.com/wszqkzqk)
+[![我的 Github 提交情况](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wszqkzqk&theme=github_dark)](https://github.com/wszqkzqk)
 
 |[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wszqkzqk&theme=github_dark)](https://github.com/wszqkzqk)|[![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wszqkzqk&theme=github_dark&utcOffset=8)](https://github.com/wszqkzqk)|
 |---|---|
