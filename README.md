@@ -46,7 +46,7 @@
 - 👣 最近在学 GTK/Vala
   - 在 KDE 和 Windows 下写 GTK 程序🤣
   - 感觉 GTK4 文档好少啊😭😭😭
-- 🧬 想学一些关于 AI for Science的内容
+- 🧬 想学一些关于 AI for Science 的内容
   - 希望能在实践中用起来
 - 😘 在开源社区得到了很多支持与帮助
 - 😣 个人能力 tcl... 什么也不会...
