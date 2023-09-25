@@ -20,6 +20,7 @@
 - 🧪 北京大学化学与分子工程学院在读本科生
   - [北京大学 Linux 俱乐部](https://github.com/lcpu-club) AP
     - 主要负责新架构生态建设项目
+    - 🕊️🕊️🕊️🕊️🕊️🕊️
   - 北京大学开源软件协会前理事长
 - ✨ [维基人](https://www.wikipedia.org/)
 - 😉 目前是 Arch Linux 用户
