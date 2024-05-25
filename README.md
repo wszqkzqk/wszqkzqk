@@ -1,6 +1,6 @@
 <div align="center">
 
-## 你好，我是星外之神！👋
+## Welcome to wszqkzqk's Page!👋 | 欢迎来到星外之神的主页！👋
 
 [![OS:Arch Linux](https://img.shields.io/badge/OS-Arch%20Linux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
 [![OS:Windows](https://img.shields.io/badge/OS-Windows-blue?style=flat-square&logo=Windows)](https://windows.com)
@@ -17,7 +17,7 @@
 
 </div>
 
-- 🧪 北京大学化学与分子工程学院在读本科生
+- 🧪 北京大学化学与分子工程学院在读本科生 (2021 -)
   - [北京大学 Linux 俱乐部](https://github.com/lcpu-club) AP (2022 -)
     - 主要负责新架构生态建设项目 (2023 -)
     - 🕊
