@@ -20,7 +20,7 @@
 ## English [中文](#中文-English)
 
 - 🧪 Undergraduate student at the College of Chemistry and Molecular Engineering, Peking University (2021 -)
-  - AP of [Peking University Linux Club](https://github.com/lcpu-club) (2022 -)
+  - AP of [Linux Club of Peking University](https://github.com/lcpu-club) (2022 -)
     - New architecture ecosystem construction project (2023 -)
   - Former chairman of the Peking University Open Source Software Association (2023)
 - ✨ [Wikipedian](https://zh.wikipedia.org/wiki/User:%E6%98%9F%E5%A4%96%E4%B9%8B%E7%A5%9E)
