@@ -17,6 +17,27 @@
 
 </div>
 
+- 🧪 Undergraduate student at the College of Chemistry and Molecular Engineering, Peking University (2021 -)
+  - AP of [Peking University Linux Club](https://github.com/lcpu-club) (2022 -)
+    - New architecture ecosystem construction project (2023 -)
+  - Former chairman of the Peking University Open Source Software Association (2023)
+- ✨ [Wikipedian](https://zh.wikipedia.org/wiki/User:%E6%98%9F%E5%A4%96%E4%B9%8B%E7%A5%9E)
+- 😉 Currently an Arch Linux user
+  - Agree with the philosophy that Linux package managers should not differentiate between "system" and "general software"
+  - Appreciate the simplicity of pacman's design
+  - Enjoy rolling updates
+- Maintainer of [Loong Arch Linux](https://github.com/lcpu-club/loongarch-packages)
+- 🐍 Use Python
+  - Write simple scripts in Bash on Linux
+- ✌️ External contributor to the [Vala compiler](https://gitlab.gnome.org/GNOME/vala)
+- 🔧 Maintain some practical tools
+- 📦 Participate in the building and packaging of some software
+- 📄 Interested in file systems
+- 🧬 Also want to learn about AI for Science
+- 😘 Received a lot of support and help from the open source community
+- 💬 Contact: wszqkzqk@qq.com
+- ⚡ Welcome to visit my [blog](https://wszqkzqk.github.io/)!
+
 - 🧪 北京大学化学与分子工程学院在读本科生 (2021 -)
   - [北京大学 Linux 俱乐部](https://github.com/lcpu-club) AP (2022 -)
     - 主要负责新架构生态建设项目 (2023 -)
@@ -28,19 +49,10 @@
   - 赞同 Linux 包管理器不区分“系统”和“一般软件”的哲学
   - 喜欢 pacman 的简洁设计
   - 喜欢滚动更新
-    - 🤣 对自己参与的某些上游包恨不得用 git 版甚至打了自己未上游化的私货补丁的版本
-- 🐍 较多使用 Python
+- [Loong Arch Linux](https://github.com/lcpu-club/loongarch-packages) 维护者
+- 🐍 使用 Python
   - Linux 下简单的脚本还是用 Bash 写的
-- ✌️ Vala 编译器外部贡献者
-  - 贡献内容较杂，包括:
-    - 功能增强
-    - 新语法特性实现
-    - 性能优化（包括编译器自身及其生成的代码）
-    - 语言绑定处理
-    - 平台适配
-    - Bug 修复
-    - ……
-  -  😭 强烈呼吁大佬来参与 [Vala 编译器](https://gitlab.gnome.org/GNOME/vala)建设，贡献者太少了
+- ✌️ [Vala 编译器](https://gitlab.gnome.org/GNOME/vala)外部贡献者
 - 🔧 维护一些实用小工具
   - ~~有时候会🕊~~
 - 📦 参与一些软件的构建打包工作
