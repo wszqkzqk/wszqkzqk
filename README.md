@@ -17,9 +17,7 @@
 
 </div>
 
-## English
-
-* [中文](#中文)
+## English [中文](#中文-English)
 
 - 🧪 Undergraduate student at the College of Chemistry and Molecular Engineering, Peking University (2021 -)
   - AP of [Peking University Linux Club](https://github.com/lcpu-club) (2022 -)
@@ -42,9 +40,7 @@
 - 💬 Contact: wszqkzqk@qq.com
 - ⚡ Welcome to visit my [blog](https://wszqkzqk.github.io/)!
 
-## 中文
-
-* [English](#English)
+## 中文 [English](#English-中文)
 
 - 🧪 北京大学化学与分子工程学院在读本科生 (2021 -)
   - [北京大学 Linux 俱乐部](https://github.com/lcpu-club) AP (2022 -)
