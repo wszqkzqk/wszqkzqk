@@ -22,7 +22,7 @@
 - 🧪 Undergraduate student at the College of Chemistry and Molecular Engineering, Peking University (2021 -)
   - AP of [Linux Club of Peking University](https://github.com/lcpu-club) (2022 -)
     - New architecture ecosystem construction project (2023 -)
-  - Former chairman of the Peking University Open Source Software Association (2023)
+  - Former chairman of the Peking University Open-source Software Association (2023)
 - ✨ [Wikipedian](https://zh.wikipedia.org/wiki/User:%E6%98%9F%E5%A4%96%E4%B9%8B%E7%A5%9E)
 - 😉 Currently an Arch Linux user
   - Agree with the philosophy that Linux package managers should not differentiate between "system" and "general software"
