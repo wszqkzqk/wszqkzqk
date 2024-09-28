@@ -28,7 +28,7 @@
   - Agree with the philosophy that Linux package managers should not differentiate between "system" and "general software"
   - Appreciate the simplicity of pacman's design
   - Enjoy rolling updates
-- Leader & Maintainer of [Loong Arch Linux](https://github.com/lcpu-club/loongarch-packages)
+- Leader & Maintainer of [Loong Arch Linux](https://github.com/lcpu-club/loongarch-packages) (An **UNOFFICIAL** Arch Linux port for loong64)
 - 🐍 Use Python
   - Write simple scripts in Bash on Linux
 - ✌️ External contributor to the [Vala compiler](https://gitlab.gnome.org/GNOME/vala)
@@ -53,7 +53,7 @@
   - 赞同 Linux 包管理器不区分“系统”和“一般软件”的哲学
   - 喜欢 pacman 的简洁设计
   - 喜欢滚动更新
-- [Loong Arch Linux](https://github.com/lcpu-club/loongarch-packages) 项目负责人，维护者
+- [Loong Arch Linux](https://github.com/lcpu-club/loongarch-packages) (非官方的Arch Linux发行版loong64移植) 项目负责人，维护者
 - 🐍 使用 Python
   - Linux 下简单的脚本还是用 Bash 写的
 - ✌️ [Vala 编译器](https://gitlab.gnome.org/GNOME/vala)外部贡献者
