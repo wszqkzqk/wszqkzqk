@@ -20,18 +20,18 @@
 ## English [中文](#中文-English)
 
 - 🧪 Undergraduate student at the College of Chemistry and Molecular Engineering, Peking University (2021 -)
-  - AP of [Linux Club of Peking University](https://github.com/lcpu-club) (2022 -)
+  - AP of [**Linux Club of Peking University**](https://github.com/lcpu-club) (2022 -)
     - New architecture ecosystem construction project (2023 -)
-  - Former chairman of the Peking University Open-source Software Association (2023)
-- ✨ [Wikipedian](https://zh.wikipedia.org/wiki/User:%E6%98%9F%E5%A4%96%E4%B9%8B%E7%A5%9E)
-- 😉 Currently an Arch Linux user
+  - Former chairman of the **Peking University Open-source Software Association** (2023)
+- ✨ [**Wikipedian**](https://zh.wikipedia.org/wiki/User:%E6%98%9F%E5%A4%96%E4%B9%8B%E7%A5%9E)
+- 😉 Currently an **Arch Linux** user
   - Agree with the philosophy that Linux package managers should not differentiate between "system" and "general software"
   - Appreciate the simplicity of pacman's design
   - Enjoy rolling updates
-- Leader & Maintainer of [Loong Arch Linux](https://github.com/lcpu-club/loongarch-packages) (An **UNOFFICIAL** Arch Linux port for loong64)
+- Leader & Maintainer of [**Loong Arch Linux**](https://github.com/lcpu-club/loongarch-packages) (An **UNOFFICIAL** Arch Linux port for loong64)
 - 🐍 Use Python
   - Write simple scripts in Bash on Linux
-- ✌️ External contributor to the [Vala compiler](https://gitlab.gnome.org/GNOME/vala)
+- ✌️ External contributor to the [**Vala compiler**](https://gitlab.gnome.org/GNOME/vala)
 - 🔧 Maintain some practical tools
 - 📦 Participate in the building and packaging of some software
 - 📄 Interested in file systems
@@ -43,20 +43,20 @@
 ## 中文 [English](#English-中文)
 
 - 🧪 北京大学化学与分子工程学院在读本科生 (2021 -)
-  - [北京大学 Linux 俱乐部](https://github.com/lcpu-club) AP (2022 -)
+  - [**北京大学 Linux 俱乐部**](https://github.com/lcpu-club) AP (2022 -)
     - 主要负责新架构生态建设项目 (2023 -)
     - 🕊
-  - 北京大学开源软件协会前理事长 (2023)
+  - **北京大学开源软件协会**前理事长 (2023)
     - 🕊🕊🕊🕊🕊🕊
-- ✨ [维基人](https://zh.wikipedia.org/wiki/User:%E6%98%9F%E5%A4%96%E4%B9%8B%E7%A5%9E)
-- 😉 目前是 Arch Linux 用户
+- ✨ [**维基人**](https://zh.wikipedia.org/wiki/User:%E6%98%9F%E5%A4%96%E4%B9%8B%E7%A5%9E)
+- 😉 目前是 **Arch Linux** 用户
   - 赞同 Linux 包管理器不区分“系统”和“一般软件”的哲学
   - 喜欢 pacman 的简洁设计
   - 喜欢滚动更新
-- [Loong Arch Linux](https://github.com/lcpu-club/loongarch-packages) (非官方的Arch Linux发行版loong64移植) 项目负责人，维护者
+- [**Loong Arch Linux**](https://github.com/lcpu-club/loongarch-packages) (非官方的Arch Linux发行版loong64移植) 项目负责人，维护者
 - 🐍 使用 Python
   - Linux 下简单的脚本还是用 Bash 写的
-- ✌️ [Vala 编译器](https://gitlab.gnome.org/GNOME/vala)外部贡献者
+- ✌️ [**Vala 编译器**](https://gitlab.gnome.org/GNOME/vala)外部贡献者
 - 🔧 维护一些实用小工具
   - ~~有时候会🕊~~
 - 📦 参与一些软件的构建打包工作
