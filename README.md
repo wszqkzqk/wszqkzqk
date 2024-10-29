@@ -6,8 +6,8 @@
 [![OS:Windows](https://img.shields.io/badge/OS-Windows-blue?style=flat-square&logo=Windows)](https://windows.com)
 [![DE:KDE](https://img.shields.io/badge/DE-KDE-blue?style=flat-square&logo=KDE)](https://www.kde.org)
 
-[![Lang:Python](https://img.shields.io/badge/Lang-Python-blue?style=flat-square&logo=python)](https://www.python.org/)
 [![Lang:Vala](https://img.shields.io/badge/Lang-Vala-blue?style=flat-square&logo=vala)](https://vala.dev/)
+[![Lang:Python](https://img.shields.io/badge/Lang-Python-blue?style=flat-square&logo=python)](https://www.python.org/)
 [![Toolkit:GTK](https://img.shields.io/badge/Toolkit-GTK-blue?style=flat-square&logo=gtk)](https://www.gtk.org/)
 
 [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
