@@ -19,9 +19,9 @@
 
 ## English [中文](#中文-English)
 
-- 🧪 Undergraduate student at the College of Chemistry and Molecular Engineering, Peking University (2021 -)
-  - AP of [**Linux Club of Peking University**](https://github.com/lcpu-club) (2022 -)
-    - New architecture ecosystem construction project (2023 -)
+- 🧪 Undergraduate student at the College of Chemistry and Molecular Engineering, Peking University (2021 - )
+  - AP of [**Linux Club of Peking University**](https://github.com/lcpu-club) (2022 - )
+    - New architecture ecosystem construction project (2023 - )
   - Former chairman of the **Peking University Open-source Software Association** (2023)
 - 🐉 Community Leader & Maintainer of [**Loong Arch Linux**](https://github.com/lcpu-club/loongarch-packages) (An **UNOFFICIAL** Arch Linux port for loong64)
 - ✨ [**Wikipedian**](https://zh.wikipedia.org/wiki/User:%E6%98%9F%E5%A4%96%E4%B9%8B%E7%A5%9E)
@@ -43,9 +43,9 @@
 
 ## 中文 [English](#English-中文)
 
-- 🧪 北京大学化学与分子工程学院在读本科生 (2021 -)
-  - [**北京大学 Linux 俱乐部**](https://github.com/lcpu-club) AP (2022 -)
-    - 主要负责新架构生态建设项目 (2023 -)
+- 🧪 北京大学化学与分子工程学院在读本科生 (2021 - )
+  - [**北京大学 Linux 俱乐部**](https://github.com/lcpu-club) AP (2022 - )
+    - 主要负责新架构生态建设项目 (2023 - )
     - 🕊
   - **北京大学开源软件协会**前理事长 (2023)
     - 🕊🕊🕊🕊🕊🕊
