@@ -23,7 +23,7 @@
   - AP of [**Linux Club of Peking University**](https://github.com/lcpu-club) (2022 - )
     - New architecture ecosystem construction project (2023 - )
   - Former chairman of the **Peking University Open-source Software Association** (2023)
-- 🐉 Community Leader & Maintainer of [**Loong Arch Linux**](https://github.com/lcpu-club/loongarch-packages) (An **UNOFFICIAL** Arch Linux port for loong64)
+- 🐉 Community Leader & Maintainer of [**Arch Linux for Loong64 (or so-called Loong Arch Linux)**](https://github.com/lcpu-club/loongarch-packages) (An **UNOFFICIAL** Arch Linux port for loong64)
 - ✨ [**Wikipedian**](https://zh.wikipedia.org/wiki/User:%E6%98%9F%E5%A4%96%E4%B9%8B%E7%A5%9E)
 - 😉 Currently an **Arch Linux** user
   - Agree with the philosophy that Linux package managers should not differentiate between "system" and "general software"
@@ -49,7 +49,7 @@
     - 🕊
   - **北京大学开源软件协会**前理事长 (2023)
     - 🕊🕊🕊🕊🕊🕊
-- 🐉 [**Loong Arch Linux**](https://github.com/lcpu-club/loongarch-packages) (非官方的 Arch Linux 发行版 loong64 移植) 项目社区负责人，维护者
+- 🐉 [**Arch Linux for Loong64 (或称 Loong Arch Linux)**](https://github.com/lcpu-club/loongarch-packages) (非官方的 Arch Linux 发行版 loong64 移植) 项目社区负责人，维护者
 - ✨ [**维基人**](https://zh.wikipedia.org/wiki/User:%E6%98%9F%E5%A4%96%E4%B9%8B%E7%A5%9E)
 - 😉 目前是 **Arch Linux** 用户
   - 赞同 Linux 包管理器不区分“系统”和“一般软件”的哲学
