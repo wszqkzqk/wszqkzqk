@@ -19,7 +19,7 @@
 
 ## English [中文](#中文-English)
 
-🧪 PhD student at the College of Chemistry and Molecular Engineering, Peking University (2025 -)
+- 🧪 PhD student at the College of Chemistry and Molecular Engineering, Peking University (2025 -)
   - Undergraduate student at the College of Chemistry and Molecular Engineering, Peking University (2021 - 2025)
   - AP of [**Linux Club of Peking University**](https://github.com/lcpu-club) (2022 - )
   - Former chairman of the **Peking University Open-source Software Association** (2023)
@@ -43,7 +43,7 @@
 
 ## 中文 [English](#English-中文)
 
-🧪 北京大学化学与分子工程学院博士研究生 (2025 -)
+- 🧪 北京大学化学与分子工程学院博士研究生 (2025 -)
   - 北京大学化学与分子工程学院，本科 (2021 - 2025)
   - [**北京大学 Linux 俱乐部**](https://github.com/lcpu-club) AP (2022 - )
   - **北京大学开源软件协会**前理事长 (2023)
