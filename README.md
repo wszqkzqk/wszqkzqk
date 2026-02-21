@@ -33,7 +33,7 @@
 - 🔧 Maintain some practical tools
 - 📦 Participate in the building and packaging of some software
 - 📄 Interested in file systems
-- 🧬 Also want to learn about AI for Science
+- 🧬 Also want to apply AI in science research
 - 😘 Received a lot of support and help from the open source community
 - 💬 Contact: wszqkzqk@qq.com
 - ⚡ Welcome to visit my [blog](https://wszqkzqk.github.io/)!
@@ -55,7 +55,7 @@
   - ~~有时候会🕊~~
 - 📦 参与一些软件的构建打包工作
 - 📄 对文件系统比较感兴趣
-- 🧬 也想学一些关于 AI for Science 的内容
+- 🧬 也想将 AI 应用于科学研究中
 - 😘 在开源社区得到了很多支持与帮助
 - 💬 联系方式：wszqkzqk@qq.com
 - ⚡ 欢迎来我的[博客网站](https://wszqkzqk.github.io/)玩吖！
