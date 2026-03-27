@@ -28,8 +28,7 @@
   - Enjoy rolling updates
 - ✌️ External contributor to the [**Vala compiler**](https://gitlab.gnome.org/GNOME/vala)
   - Also often use Vala in personal projects
-- 🐍 Use Python
-  - Write simple scripts in Bash on Linux
+- 🐧 Actually write in any language because of maintaining the Linux distribution.
 - 🔧 Maintain some practical tools
 - 📦 Participate in the building and packaging of some software
 - 📄 Interested in file systems
@@ -49,8 +48,7 @@
   - 喜欢滚动更新
 - ✌️ [**Vala 编译器**](https://gitlab.gnome.org/GNOME/vala)外部贡献者
   - 经常在个人项目中使用 Vala
-- 🐍 使用 Python
-  - Linux 下简单的脚本还是用 Bash 写的
+- 🐧 因维护 Linux 发行版的缘故，其实什么语言都能写
 - 🔧 维护一些实用小工具
   - ~~有时候会🕊~~
 - 📦 参与一些软件的构建打包工作
