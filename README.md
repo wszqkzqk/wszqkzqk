@@ -28,7 +28,7 @@
   - Enjoy rolling updates
 - ✌️ External contributor to the [**Vala compiler**](https://gitlab.gnome.org/GNOME/vala)
   - Also often use Vala in personal projects
-- 🐧 Actually write in any language because of maintaining the Linux distribution.
+- 🐧 Actually write in any language because of maintaining the Linux distribution
 - 🔧 Maintain some practical tools
 - 📦 Participate in the building and packaging of some software
 - 📄 Interested in file systems
