@@ -60,7 +60,7 @@
 
 <div align="center">
 
-[![我的 GitHub 概要](https://githubcard.com/wszqkzqk.svg?d=0H33bSmm)](https://githubcard.com/wszqkzqk.svg)
+[![我的 GitHub 概要](https://githubcard.com/wszqkzqk.svg?d=75sA8ArE)](https://githubcard.com/wszqkzqk.svg)
 
 |[![我的 Github 提交情况](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wszqkzqk&theme=github_dark)](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wszqkzqk&theme=github_dark)|[![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wszqkzqk&theme=github_dark&utcOffset=8)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wszqkzqk&theme=github_dark&utcOffset=8)|
 |---|---|
