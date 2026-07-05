@@ -62,7 +62,7 @@
 
 <div align="center">
 
-[![我的 GitHub 概要](https://github-stats-extended.vercel.app/api?username=wszqkzqk&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=wszqkzqk&show_icons=true&include_all_commits=true)
+[![我的 GitHub 概要](https://github-stats-extended.vercel.app/api?username=wszqkzqk&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=wszqkzqk&show_icons=true&include_all_commits=true&theme=dark)
 
 |[![我的 Github 提交情况](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wszqkzqk&theme=github_dark)](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wszqkzqk&theme=github_dark)|[![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wszqkzqk&theme=github_dark&utcOffset=8)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wszqkzqk&theme=github_dark&utcOffset=8)|
 |---|---|
